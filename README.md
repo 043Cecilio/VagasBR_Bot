@@ -173,7 +173,7 @@ python src/main.py
 
 ---
 
-## ⚙️ Configuração da Automação (GitHub Actions)
+## Configuração da Automação (GitHub Actions)
 
 Para que o bot rode automaticamente em intervalos definidos, é necessário configurar os **Secrets** do repositório:
 
