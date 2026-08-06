@@ -14,7 +14,7 @@
 
 ---
 
-## 📌 Sobre o Projeto
+## Sobre o Projeto
 
 **TechVagas Bot** é um robô desenvolvido em Python que monitora periodicamente vagas de emprego na área de tecnologia no mercado nacional e envia notificações automáticas diretamente para o Telegram, mantendo o usuário sempre atualizado sem a necessidade de buscas manuais repetitivas.
 
@@ -31,7 +31,7 @@ techvagas-bot/
 │
 ├── .github/
 │   └── workflows/
-│       └── bot.yml                # 🔵 Workflow de automação (cron job)
+│       └── bot.yml                # Workflow de automação (cron job)
 │
 ├── src/
 │   ├── main.py                    # Ponto de entrada do bot
@@ -104,7 +104,7 @@ O sistema aplica filtros configuráveis por palavras-chave (ex: "desenvolvedor",
 
 ---
 
-## ▶️ Como Executar Localmente
+## Como Executar Localmente
 
 Siga os passos abaixo para configurar e testar o bot em ambiente de desenvolvimento.
 
